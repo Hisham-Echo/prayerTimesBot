@@ -1,0 +1,4 @@
+.env
+prayer_config.db
+__pycache__/
+*.pyc
