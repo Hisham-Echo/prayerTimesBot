@@ -2,3 +2,6 @@
 prayer_config.db
 __pycache__/
 *.pyc
+/v1.5
+/v2.0
+/v2.5
